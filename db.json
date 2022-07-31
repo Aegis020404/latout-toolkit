@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "title": "update this post",
+      "body": "realy working",
+      "id": 1659235435344
+    },
+    {
+      "title": "working",
+      "body": "realy working",
+      "id": 1659235463356
+    },
+    {
+      "title": "working",
+      "body": "realy working",
+      "id": 1659235466413
+    },
+    {
+      "title": "working",
+      "body": "realy working",
+      "id": 1659235470616
+    },
+    {
+      "title": "working",
+      "body": "realy working",
+      "id": 1659236143505
+    },
+    {
+      "title": "working",
+      "body": "realy working",
+      "id": 1659236227414
+    },
+    {
+      "title": "working",
+      "body": "realy working",
+      "id": 1659236228329
+    },
+    {
+      "title": "working",
+      "body": "realy working",
+      "id": 1659236228954
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
